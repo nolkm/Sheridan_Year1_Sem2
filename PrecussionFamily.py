@@ -1,0 +1,4 @@
+#skeleton ...
+
+class PrecussionFamily:
+    pass
