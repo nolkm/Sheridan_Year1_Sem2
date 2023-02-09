@@ -1,4 +1,8 @@
 #skeleton 
+from Interfaces import Repairable, Playable
 
-class SringFamily: 
-    pass 
+
+
+class SringFamily(Repairable, Playable):
+
+     pass
